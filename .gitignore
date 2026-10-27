@@ -1,0 +1,18 @@
+# secrets – never commit these
+.env
+
+# local data
+data/pawconnect.db
+data/pawconnect.db-*
+data/outbox.log
+data/uploads/*
+!data/uploads/.gitkeep
+data/exports/*
+!data/exports/.gitkeep
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/

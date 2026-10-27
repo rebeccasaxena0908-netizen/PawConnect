@@ -1,0 +1,28 @@
+# Optional PostgreSQL for PawConnect (SQLite is used when you don't run this).
+#
+#   docker compose up -d            # start Postgres in the background
+#   then put this line in .env:
+#   DATABASE_URL=postgresql+psycopg://pawconnect:pawconnect@localhost:5432/pawconnect
+#   python main.py --all            # tables are created by the Alembic migration on start-up
+#
+#   docker compose down             # stop it (data is kept in the pawconnect-pg volume)
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: pawconnect-postgres
+    environment:
+      POSTGRES_USER: pawconnect
+      POSTGRES_PASSWORD: pawconnect     # local development only
+      POSTGRES_DB: pawconnect
+    ports:
+      - "5432:5432"
+    volumes:
+      - pawconnect-pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U pawconnect -d pawconnect"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  pawconnect-pg:

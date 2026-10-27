@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "PawConnect: web app",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "ui/web_app.py"],
+      "cwd": "${workspaceFolder}",
+      "justMyCode": true
+    },
+    {
+      "name": "PawConnect: desktop admin console",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/ui/desktop_gui.py",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "PawConnect: reset demo data",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "args": ["--reset-data"],
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

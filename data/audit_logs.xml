@@ -1,0 +1,314 @@
+<?xml version='1.0' encoding='utf-8'?>
+<auditLog system="PawConnect">
+  <event id="EV-00001" timestamp="2026-03-22 13:40:51" actor="U0008" role="Donor" action="USER_REGISTERED">Sneha Iyer registered as Donor</event>
+  <event id="EV-00002" timestamp="2026-03-29 13:40:51" actor="U0010" role="Citizen" action="USER_REGISTERED">Pooja Yadav registered as Citizen</event>
+  <event id="EV-00003" timestamp="2026-04-08 13:40:51" actor="U0003" role="Rescuer" action="USER_REGISTERED">Fatima Khan registered as Rescuer</event>
+  <event id="EV-00004" timestamp="2026-04-10 13:40:51" actor="U0004" role="Rescuer" action="USER_REGISTERED">Rohit Verma registered as Rescuer</event>
+  <event id="EV-00005" timestamp="2026-04-11 13:40:51" actor="U0005" role="Donor" action="USER_REGISTERED">Ananya Sharma registered as Donor</event>
+  <event id="EV-00006" timestamp="2026-04-17 13:40:51" actor="U0006" role="Donor" action="USER_REGISTERED">Vikram Mehta registered as Donor</event>
+  <event id="EV-00007" timestamp="2026-04-18 13:40:51" actor="U0001" role="Admin" action="USER_REGISTERED">Meera Kapoor registered as Admin</event>
+  <event id="EV-00008" timestamp="2026-04-19 13:40:51" actor="U0007" role="Donor" action="USER_REGISTERED">GreenLeaf Foods Pvt Ltd registered as Donor</event>
+  <event id="EV-00009" timestamp="2026-04-20 13:40:51" actor="U0009" role="Citizen" action="USER_REGISTERED">Karan Malhotra registered as Citizen</event>
+  <event id="EV-00010" timestamp="2026-04-20 13:40:51" actor="U0013" role="Adopter" action="USER_REGISTERED">Aditya Rao registered as Adopter</event>
+  <event id="EV-00011" timestamp="2026-04-23 13:40:51" actor="U0011" role="Citizen" action="USER_REGISTERED">Imran Qureshi registered as Citizen</event>
+  <event id="EV-00012" timestamp="2026-04-24 13:40:51" actor="U0002" role="Rescuer" action="USER_REGISTERED">Arjun Singh registered as Rescuer</event>
+  <event id="EV-00013" timestamp="2026-04-24 13:40:51" actor="U0012" role="Adopter" action="USER_REGISTERED">Riya Bansal registered as Adopter</event>
+  <event id="EV-00014" timestamp="2026-05-03 13:28:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260503-5C5087: ₹900.00 to Specific Medical Case</event>
+  <event id="EV-00015" timestamp="2026-05-05 06:53:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260505-9CA3FB: ₹1,670.00 to General Shelter Fund</event>
+  <event id="EV-00016" timestamp="2026-05-07 05:39:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260507-E506F6: ₹1,120.00 to General Shelter Fund</event>
+  <event id="EV-00017" timestamp="2026-05-10 06:20:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260510-A663D2: ₹670.00 to General Shelter Fund</event>
+  <event id="EV-00018" timestamp="2026-05-10 15:46:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260510-8D03F1: ₹1,540.00 to General Shelter Fund</event>
+  <event id="EV-00019" timestamp="2026-05-10 22:13:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260510-79C2D2: ₹1,850.00 to Specific Medical Case</event>
+  <event id="EV-00020" timestamp="2026-05-11 06:53:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0012: Critical dog at 110017</event>
+  <event id="EV-00021" timestamp="2026-05-11 08:23:01" actor="U0003" role="Rescuer" action="CASE_ACCEPTED">RC-0012 accepted</event>
+  <event id="EV-00022" timestamp="2026-05-12 01:21:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260512-FD3725: ₹180.00 to General Shelter Fund</event>
+  <event id="EV-00023" timestamp="2026-05-12 06:17:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0034: Moderate dog at 201301</event>
+  <event id="EV-00024" timestamp="2026-05-12 10:35:38" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0034 accepted</event>
+  <event id="EV-00025" timestamp="2026-05-15 02:16:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0004: Critical cow at 110092</event>
+  <event id="EV-00026" timestamp="2026-05-15 04:03:18" actor="U0003" role="Rescuer" action="CASE_ACCEPTED">RC-0004 accepted</event>
+  <event id="EV-00027" timestamp="2026-05-15 05:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0001: ₹3,700.00 from General Shelter Fund to RC-0003 (Vaccination)</event>
+  <event id="EV-00028" timestamp="2026-05-15 11:21:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260515-349531: ₹580.00 to General Shelter Fund</event>
+  <event id="EV-00029" timestamp="2026-05-17 06:11:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260517-D0243D: ₹970.00 to Specific Medical Case</event>
+  <event id="EV-00030" timestamp="2026-05-17 09:38:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260517-C2FE89: ₹940.00 to General Shelter Fund</event>
+  <event id="EV-00031" timestamp="2026-05-17 13:40:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0030: Critical cow at 110001</event>
+  <event id="EV-00032" timestamp="2026-05-17 16:08:43" actor="U0003" role="Rescuer" action="CASE_ACCEPTED">RC-0030 accepted</event>
+  <event id="EV-00033" timestamp="2026-05-18 23:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0002: ₹1,000.00 from General Shelter Fund to RC-0003 (Vaccination)</event>
+  <event id="EV-00034" timestamp="2026-05-19 05:53:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260519-E27718: ₹1,270.00 to General Shelter Fund</event>
+  <event id="EV-00035" timestamp="2026-05-20 22:27:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0022: Critical dog at 201010</event>
+  <event id="EV-00036" timestamp="2026-05-20 23:02:40" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0022 accepted</event>
+  <event id="EV-00037" timestamp="2026-05-21 05:23:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260521-7B8517: ₹1,470.00 to Emergency Feed Fund</event>
+  <event id="EV-00038" timestamp="2026-05-21 07:15:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260521-35AB84: ₹200.00 to Emergency Feed Fund</event>
+  <event id="EV-00039" timestamp="2026-05-21 11:36:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260521-A867A0: ₹4,920.00 to Emergency Feed Fund</event>
+  <event id="EV-00040" timestamp="2026-05-21 14:55:51" actor="U0012" role="Citizen" action="SOS_REPORTED">RC-0027: Moderate dog at 110001</event>
+  <event id="EV-00041" timestamp="2026-05-21 18:55:50" actor="U0003" role="Rescuer" action="CASE_ACCEPTED">RC-0027 accepted</event>
+  <event id="EV-00042" timestamp="2026-05-22 02:11:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260522-3818CF: ₹5,270.00 to Specific Medical Case</event>
+  <event id="EV-00043" timestamp="2026-05-22 03:11:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260522-96A995: ₹3,200.00 to Specific Medical Case</event>
+  <event id="EV-00044" timestamp="2026-05-22 18:08:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260522-F48F70: ₹1,170.00 to Emergency Feed Fund</event>
+  <event id="EV-00045" timestamp="2026-05-22 23:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0003: ₹2,000.00 from General Shelter Fund to RC-0003 (Medicines)</event>
+  <event id="EV-00046" timestamp="2026-05-23 09:13:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260523-21084D: ₹2,210.00 to General Shelter Fund</event>
+  <event id="EV-00047" timestamp="2026-05-23 14:42:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0046: Critical dog at 201304</event>
+  <event id="EV-00048" timestamp="2026-05-23 15:14:23" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0046 accepted</event>
+  <event id="EV-00049" timestamp="2026-05-23 20:00:51" actor="U0008" role="Donor" action="DONATION_FAILED">PC-DON-20260523-4F11D8: ₹2,620.00 to Specific Medical Case</event>
+  <event id="EV-00050" timestamp="2026-05-24 10:04:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260524-17DC8E: ₹1,820.00 to Specific Medical Case</event>
+  <event id="EV-00051" timestamp="2026-05-24 23:59:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260524-039B05: ₹750.00 to General Shelter Fund</event>
+  <event id="EV-00052" timestamp="2026-05-25 21:59:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260525-B43CDE: ₹1,840.00 to Emergency Feed Fund</event>
+  <event id="EV-00053" timestamp="2026-05-26 01:07:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20260526-C4DD8D: ₹10,000.00 to General Shelter Fund</event>
+  <event id="EV-00054" timestamp="2026-05-27 04:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0004: ₹6,200.00 from General Shelter Fund to RC-0006 (Medicines)</event>
+  <event id="EV-00055" timestamp="2026-05-27 10:20:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260527-5BB5C4: ₹1,980.00 to General Shelter Fund</event>
+  <event id="EV-00056" timestamp="2026-05-28 07:26:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0038: Moderate dog at 201002</event>
+  <event id="EV-00057" timestamp="2026-05-28 09:33:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260528-E1CDE8: ₹3,250.00 to General Shelter Fund</event>
+  <event id="EV-00058" timestamp="2026-05-28 10:20:43" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0038 accepted</event>
+  <event id="EV-00059" timestamp="2026-05-31 06:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0005: ₹8,200.00 from General Shelter Fund to RC-0002 (Surgery)</event>
+  <event id="EV-00060" timestamp="2026-06-03 13:53:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260603-D284F5: ₹1,710.00 to Emergency Feed Fund</event>
+  <event id="EV-00061" timestamp="2026-06-03 16:23:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260603-C777A0: ₹1,800.00 to Specific Medical Case</event>
+  <event id="EV-00062" timestamp="2026-06-04 02:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0006: ₹1,800.00 from General Shelter Fund to RC-0002 (Medicines)</event>
+  <event id="EV-00063" timestamp="2026-06-05 21:06:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260605-D66D46: ₹1,980.00 to General Shelter Fund</event>
+  <event id="EV-00064" timestamp="2026-06-08 03:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0007: ₹1,600.00 from General Shelter Fund to RC-0008 (Vaccination)</event>
+  <event id="EV-00065" timestamp="2026-06-08 08:57:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0019: Low dog at 110017</event>
+  <event id="EV-00066" timestamp="2026-06-08 14:53:00" actor="U0003" role="Rescuer" action="CASE_ACCEPTED">RC-0019 accepted</event>
+  <event id="EV-00067" timestamp="2026-06-09 01:49:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260609-3D44CB: ₹1,420.00 to General Shelter Fund</event>
+  <event id="EV-00068" timestamp="2026-06-09 08:54:51" actor="U0013" role="Citizen" action="SOS_REPORTED">RC-0001: Moderate dog at 201304</event>
+  <event id="EV-00069" timestamp="2026-06-09 11:13:20" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0001 accepted</event>
+  <event id="EV-00070" timestamp="2026-06-09 19:25:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260609-0C0098: ₹2,450.00 to Specific Medical Case</event>
+  <event id="EV-00071" timestamp="2026-06-09 23:36:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260609-0649BC: ₹1,800.00 to Specific Medical Case</event>
+  <event id="EV-00072" timestamp="2026-06-12 05:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0008: ₹6,900.00 from Emergency Feed Fund to RC-0007 (Food)</event>
+  <event id="EV-00073" timestamp="2026-06-12 13:15:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260612-1F45DB: ₹27,620.00 to Specific Medical Case</event>
+  <event id="EV-00074" timestamp="2026-06-13 01:01:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260613-097A1E: ₹7,240.00 to Specific Medical Case</event>
+  <event id="EV-00075" timestamp="2026-06-13 20:40:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0044: Moderate dog at 201301</event>
+  <event id="EV-00076" timestamp="2026-06-13 23:28:03" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0044 accepted</event>
+  <event id="EV-00077" timestamp="2026-06-14 17:55:51" actor="U0009" role="Citizen" action="SOS_REPORTED">RC-0024: Critical dog at 201002</event>
+  <event id="EV-00078" timestamp="2026-06-14 20:15:05" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0024 accepted</event>
+  <event id="EV-00079" timestamp="2026-06-16 05:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0009: ₹1,700.00 from General Shelter Fund to RC-0007 (Surgery)</event>
+  <event id="EV-00080" timestamp="2026-06-20 03:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0010: ₹2,300.00 from General Shelter Fund to RC-0006 (Medicines)</event>
+  <event id="EV-00081" timestamp="2026-06-20 20:44:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260620-7B07FD: ₹800.00 to General Shelter Fund</event>
+  <event id="EV-00082" timestamp="2026-06-21 01:38:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260621-DA003F: ₹1,030.00 to Specific Medical Case</event>
+  <event id="EV-00083" timestamp="2026-06-21 16:04:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260621-E74577: ₹890.00 to Emergency Feed Fund</event>
+  <event id="EV-00084" timestamp="2026-06-22 02:37:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260622-0A3450: ₹1,220.00 to General Shelter Fund</event>
+  <event id="EV-00085" timestamp="2026-06-24 07:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0011: ₹1,800.00 from General Shelter Fund to RC-0003 (Medicines)</event>
+  <event id="EV-00086" timestamp="2026-06-26 17:11:51" actor="U0012" role="Citizen" action="SOS_REPORTED">RC-0028: Low cat at 110001</event>
+  <event id="EV-00087" timestamp="2026-06-26 21:18:04" actor="U0003" role="Rescuer" action="CASE_ACCEPTED">RC-0028 accepted</event>
+  <event id="EV-00088" timestamp="2026-06-28 11:30:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260628-5C0B9B: ₹1,330.00 to General Shelter Fund</event>
+  <event id="EV-00089" timestamp="2026-06-28 14:52:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260628-143745: ₹490.00 to General Shelter Fund</event>
+  <event id="EV-00090" timestamp="2026-06-29 14:36:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260629-1DAD09: ₹810.00 to Specific Medical Case</event>
+  <event id="EV-00091" timestamp="2026-06-30 00:10:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260630-C8120A: ₹1,590.00 to General Shelter Fund</event>
+  <event id="EV-00092" timestamp="2026-07-01 23:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0012: ₹2,800.00 from General Shelter Fund to RC-0010 (Shelter maintenance)</event>
+  <event id="EV-00093" timestamp="2026-07-02 10:36:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260702-24108E: ₹1,690.00 to General Shelter Fund</event>
+  <event id="EV-00094" timestamp="2026-07-05 11:55:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260705-A6499C: ₹670.00 to Specific Medical Case</event>
+  <event id="EV-00095" timestamp="2026-07-06 03:46:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260706-734A6C: ₹1,680.00 to General Shelter Fund</event>
+  <event id="EV-00096" timestamp="2026-07-06 05:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0013: ₹3,100.00 from General Shelter Fund to RC-0004 (Medicines)</event>
+  <event id="EV-00097" timestamp="2026-07-06 08:30:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260706-FFD2F4: ₹1,330.00 to Specific Medical Case</event>
+  <event id="EV-00098" timestamp="2026-07-07 17:00:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20260707-8FC420: ₹25,000.00 to General Shelter Fund</event>
+  <event id="EV-00099" timestamp="2026-07-08 20:48:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260708-51FACE: ₹260.00 to General Shelter Fund</event>
+  <event id="EV-00100" timestamp="2026-07-08 22:23:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260708-76DA3C: ₹5,310.00 to General Shelter Fund</event>
+  <event id="EV-00101" timestamp="2026-07-09 12:02:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260709-7F53A8: ₹860.00 to Emergency Feed Fund</event>
+  <event id="EV-00102" timestamp="2026-07-10 03:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0014: ₹3,800.00 from Emergency Feed Fund to RC-0010 (Food)</event>
+  <event id="EV-00103" timestamp="2026-07-13 23:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0015: ₹9,400.00 from General Shelter Fund to RC-0002 (Surgery)</event>
+  <event id="EV-00104" timestamp="2026-07-14 08:31:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260714-1BB433: ₹890.00 to Specific Medical Case</event>
+  <event id="EV-00105" timestamp="2026-07-18 00:57:51" actor="U0009" role="Citizen" action="SOS_REPORTED">RC-0013: Moderate dog at 201001</event>
+  <event id="EV-00106" timestamp="2026-07-18 06:40:04" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0013 accepted</event>
+  <event id="EV-00107" timestamp="2026-07-18 06:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0016: ₹10,700.00 from General Shelter Fund to RC-0007 (Shelter maintenance)</event>
+  <event id="EV-00108" timestamp="2026-07-20 02:26:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20260720-AB7A3D: ₹25,000.00 to General Shelter Fund</event>
+  <event id="EV-00109" timestamp="2026-07-20 10:24:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260720-920701: ₹890.00 to Specific Medical Case</event>
+  <event id="EV-00110" timestamp="2026-07-22 04:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0017: ₹15,500.00 from General Shelter Fund to RC-0003 (Surgery)</event>
+  <event id="EV-00111" timestamp="2026-07-22 09:29:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260722-AE2AE3: ₹1,700.00 to General Shelter Fund</event>
+  <event id="EV-00112" timestamp="2026-07-23 04:55:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0003: Critical dog at 110092</event>
+  <event id="EV-00113" timestamp="2026-07-23 06:01:35" actor="U0003" role="Rescuer" action="CASE_ACCEPTED">RC-0003 accepted</event>
+  <event id="EV-00114" timestamp="2026-07-23 20:39:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260723-143DF5: ₹1,630.00 to Emergency Feed Fund</event>
+  <event id="EV-00115" timestamp="2026-07-26 01:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0018: ₹6,900.00 from General Shelter Fund to RC-0010 (Transport)</event>
+  <event id="EV-00116" timestamp="2026-07-27 04:45:51" actor="U0009" role="Citizen" action="SOS_REPORTED">RC-0015: Moderate dog at 201001</event>
+  <event id="EV-00117" timestamp="2026-07-27 10:22:03" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0015 accepted</event>
+  <event id="EV-00118" timestamp="2026-07-27 17:18:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260727-4DFE11: ₹2,800.00 to Emergency Feed Fund</event>
+  <event id="EV-00119" timestamp="2026-07-28 00:59:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0010: Critical cow at 201304</event>
+  <event id="EV-00120" timestamp="2026-07-28 02:27:30" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0010 accepted</event>
+  <event id="EV-00121" timestamp="2026-07-28 12:05:51" actor="U0012" role="Citizen" action="SOS_REPORTED">RC-0021: Critical dog at 201001</event>
+  <event id="EV-00122" timestamp="2026-07-28 14:05:38" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0021 accepted</event>
+  <event id="EV-00123" timestamp="2026-07-30 04:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0019: ₹11,500.00 from General Shelter Fund to RC-0001 (Vaccination)</event>
+  <event id="EV-00124" timestamp="2026-07-30 22:02:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260730-77E490: ₹3,690.00 to General Shelter Fund</event>
+  <event id="EV-00125" timestamp="2026-07-31 13:59:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260731-6E5148: ₹590.00 to Specific Medical Case</event>
+  <event id="EV-00126" timestamp="2026-07-31 22:12:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260731-BBA205: ₹1,140.00 to General Shelter Fund</event>
+  <event id="EV-00127" timestamp="2026-08-01 07:49:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0007: Critical dog at 201002</event>
+  <event id="EV-00128" timestamp="2026-08-01 08:58:38" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0007 accepted</event>
+  <event id="EV-00129" timestamp="2026-08-02 05:58:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260802-C28EBD: ₹1,400.00 to Emergency Feed Fund</event>
+  <event id="EV-00130" timestamp="2026-08-03 01:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0020: ₹3,900.00 from General Shelter Fund to RC-0017 (Shelter maintenance)</event>
+  <event id="EV-00131" timestamp="2026-08-03 11:15:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0033: Low dog at 201301</event>
+  <event id="EV-00132" timestamp="2026-08-03 17:34:07" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0033 accepted</event>
+  <event id="EV-00133" timestamp="2026-08-04 15:32:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260804-D6312A: ₹720.00 to General Shelter Fund</event>
+  <event id="EV-00134" timestamp="2026-08-05 09:43:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260805-6B535A: ₹800.00 to General Shelter Fund</event>
+  <event id="EV-00135" timestamp="2026-08-05 19:17:51" actor="U0009" role="Citizen" action="SOS_REPORTED">RC-0036: Moderate dog at 122001</event>
+  <event id="EV-00136" timestamp="2026-08-05 22:47:54" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0036 accepted</event>
+  <event id="EV-00137" timestamp="2026-08-06 21:48:51" actor="U0007" role="Donor" action="DONATION_FAILED">PC-DON-20260806-5EDB0D: ₹50,000.00 to General Shelter Fund</event>
+  <event id="EV-00138" timestamp="2026-08-07 05:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0021: ₹5,100.00 from General Shelter Fund to RC-0002 (Medicines)</event>
+  <event id="EV-00139" timestamp="2026-08-07 06:17:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260807-9E2A73: ₹1,820.00 to Specific Medical Case</event>
+  <event id="EV-00140" timestamp="2026-08-08 07:38:51" actor="U0013" role="Citizen" action="SOS_REPORTED">RC-0029: Moderate cow at 201014</event>
+  <event id="EV-00141" timestamp="2026-08-08 12:32:20" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0029 accepted</event>
+  <event id="EV-00142" timestamp="2026-08-08 19:27:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20260808-8BEA75: ₹15,000.00 to General Shelter Fund</event>
+  <event id="EV-00143" timestamp="2026-08-09 10:13:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260809-C4E7F7: ₹520.00 to Emergency Feed Fund</event>
+  <event id="EV-00144" timestamp="2026-08-11 02:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0022: ₹7,300.00 from General Shelter Fund to RC-0004 (Transport)</event>
+  <event id="EV-00145" timestamp="2026-08-11 22:20:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260811-186B28: ₹2,080.00 to Specific Medical Case</event>
+  <event id="EV-00146" timestamp="2026-08-14 03:23:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260814-526000: ₹1,610.00 to General Shelter Fund</event>
+  <event id="EV-00147" timestamp="2026-08-14 12:02:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260814-7A8104: ₹2,120.00 to General Shelter Fund</event>
+  <event id="EV-00148" timestamp="2026-08-14 13:31:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260814-EA1633: ₹2,730.00 to Emergency Feed Fund</event>
+  <event id="EV-00149" timestamp="2026-08-15 03:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0023: ₹10,600.00 from General Shelter Fund to RC-0001 (Vaccination)</event>
+  <event id="EV-00150" timestamp="2026-08-16 16:04:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260816-C9AF18: ₹150.00 to General Shelter Fund</event>
+  <event id="EV-00151" timestamp="2026-08-16 23:14:51" actor="U0013" role="Citizen" action="SOS_REPORTED">RC-0032: Critical dog at 201301</event>
+  <event id="EV-00152" timestamp="2026-08-17 00:31:42" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0032 accepted</event>
+  <event id="EV-00153" timestamp="2026-08-17 05:52:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260817-971546: ₹990.00 to General Shelter Fund</event>
+  <event id="EV-00154" timestamp="2026-08-19 02:01:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260819-4EF492: ₹550.00 to Specific Medical Case</event>
+  <event id="EV-00155" timestamp="2026-08-19 02:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0024: ₹2,300.00 from General Shelter Fund to RC-0019 (Transport)</event>
+  <event id="EV-00156" timestamp="2026-08-19 03:10:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260819-87CDB6: ₹1,740.00 to General Shelter Fund</event>
+  <event id="EV-00157" timestamp="2026-08-19 10:17:51" actor="U0013" role="Citizen" action="SOS_REPORTED">RC-0009: Moderate dog at 201010</event>
+  <event id="EV-00158" timestamp="2026-08-19 10:55:26" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0009 accepted</event>
+  <event id="EV-00159" timestamp="2026-08-20 10:08:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260820-07437C: ₹3,390.00 to General Shelter Fund</event>
+  <event id="EV-00160" timestamp="2026-08-21 03:56:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260821-281285: ₹1,900.00 to Specific Medical Case</event>
+  <event id="EV-00161" timestamp="2026-08-22 00:39:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260822-32F575: ₹700.00 to Emergency Feed Fund</event>
+  <event id="EV-00162" timestamp="2026-08-23 03:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0025: ₹5,500.00 from General Shelter Fund to RC-0016 (Surgery)</event>
+  <event id="EV-00163" timestamp="2026-08-23 15:44:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260823-8A624C: ₹760.00 to Emergency Feed Fund</event>
+  <event id="EV-00164" timestamp="2026-08-24 11:17:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260824-7D4ED2: ₹750.00 to General Shelter Fund</event>
+  <event id="EV-00165" timestamp="2026-08-24 21:05:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260824-BEC39A: ₹2,030.00 to Emergency Feed Fund</event>
+  <event id="EV-00166" timestamp="2026-08-25 08:31:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260825-F6D22A: ₹4,740.00 to General Shelter Fund</event>
+  <event id="EV-00167" timestamp="2026-08-26 13:36:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260826-34323E: ₹2,120.00 to Specific Medical Case</event>
+  <event id="EV-00168" timestamp="2026-08-26 23:13:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20260826-AC3E7B: ₹10,000.00 to Emergency Feed Fund</event>
+  <event id="EV-00169" timestamp="2026-08-27 04:09:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260827-5230DF: ₹890.00 to Emergency Feed Fund</event>
+  <event id="EV-00170" timestamp="2026-08-27 06:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0026: ₹2,300.00 from General Shelter Fund to RC-0003 (Medicines)</event>
+  <event id="EV-00171" timestamp="2026-08-27 13:00:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260827-76876C: ₹1,240.00 to Emergency Feed Fund</event>
+  <event id="EV-00172" timestamp="2026-08-28 00:01:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0031: Critical cat at 201002</event>
+  <event id="EV-00173" timestamp="2026-08-28 01:28:13" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0031 accepted</event>
+  <event id="EV-00174" timestamp="2026-08-28 06:46:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260828-6E3255: ₹1,920.00 to Specific Medical Case</event>
+  <event id="EV-00175" timestamp="2026-08-28 08:52:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260828-DEBAC1: ₹2,170.00 to General Shelter Fund</event>
+  <event id="EV-00176" timestamp="2026-08-28 13:17:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260828-718D4D: ₹1,410.00 to General Shelter Fund</event>
+  <event id="EV-00177" timestamp="2026-08-30 11:44:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0018: Low cat at 110092</event>
+  <event id="EV-00178" timestamp="2026-08-30 18:19:47" actor="U0003" role="Rescuer" action="CASE_ACCEPTED">RC-0018 accepted</event>
+  <event id="EV-00179" timestamp="2026-08-30 18:48:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260830-4CFD0F: ₹1,220.00 to Specific Medical Case</event>
+  <event id="EV-00180" timestamp="2026-08-31 06:33:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260831-446F64: ₹5,330.00 to General Shelter Fund</event>
+  <event id="EV-00181" timestamp="2026-08-31 07:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0027: ₹9,400.00 from General Shelter Fund to RC-0002 (Shelter maintenance)</event>
+  <event id="EV-00182" timestamp="2026-08-31 10:30:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260831-12FE28: ₹1,310.00 to General Shelter Fund</event>
+  <event id="EV-00183" timestamp="2026-09-02 02:40:51" actor="U0009" role="Adopter" action="ADOPTION_APPLIED">AP-0005 for A002: score 67</event>
+  <event id="EV-00184" timestamp="2026-09-02 03:51:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260902-B1AA0F: ₹1,330.00 to Specific Medical Case</event>
+  <event id="EV-00185" timestamp="2026-09-02 06:26:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260902-B7E6A1: ₹630.00 to Specific Medical Case</event>
+  <event id="EV-00186" timestamp="2026-09-03 16:08:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260903-0930AE: ₹2,550.00 to General Shelter Fund</event>
+  <event id="EV-00187" timestamp="2026-09-04 00:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0028: ₹5,300.00 from General Shelter Fund to RC-0021 (Shelter maintenance)</event>
+  <event id="EV-00188" timestamp="2026-09-04 01:06:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260904-1B4DA0: ₹2,470.00 to Emergency Feed Fund</event>
+  <event id="EV-00189" timestamp="2026-09-04 09:52:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260904-8D49FE: ₹1,140.00 to General Shelter Fund</event>
+  <event id="EV-00190" timestamp="2026-09-04 10:45:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260904-AD77E8: ₹910.00 to General Shelter Fund</event>
+  <event id="EV-00191" timestamp="2026-09-05 05:11:51" actor="U0009" role="Citizen" action="SOS_REPORTED">RC-0043: Moderate bird at 201304</event>
+  <event id="EV-00192" timestamp="2026-09-05 09:18:22" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0043 accepted</event>
+  <event id="EV-00193" timestamp="2026-09-06 07:56:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0041: Low dog at 201304</event>
+  <event id="EV-00194" timestamp="2026-09-06 13:28:57" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0041 accepted</event>
+  <event id="EV-00195" timestamp="2026-09-06 16:07:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260906-67B032: ₹1,920.00 to Emergency Feed Fund</event>
+  <event id="EV-00196" timestamp="2026-09-08 07:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0029: ₹1,800.00 from General Shelter Fund to RC-0013 (Transport)</event>
+  <event id="EV-00197" timestamp="2026-09-08 08:26:51" actor="U0013" role="Citizen" action="SOS_REPORTED">RC-0016: Low dog at 201014</event>
+  <event id="EV-00198" timestamp="2026-09-08 10:59:09" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0016 accepted</event>
+  <event id="EV-00199" timestamp="2026-09-08 14:15:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260908-44945E: ₹2,250.00 to Specific Medical Case</event>
+  <event id="EV-00200" timestamp="2026-09-08 18:32:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0008: Critical dog at 110001</event>
+  <event id="EV-00201" timestamp="2026-09-08 19:50:44" actor="U0003" role="Rescuer" action="CASE_ACCEPTED">RC-0008 accepted</event>
+  <event id="EV-00202" timestamp="2026-09-11 03:11:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260911-956D80: ₹300.00 to Specific Medical Case</event>
+  <event id="EV-00203" timestamp="2026-09-11 15:54:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260911-E05277: ₹6,200.00 to General Shelter Fund</event>
+  <event id="EV-00204" timestamp="2026-09-12 05:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0030: ₹4,200.00 from General Shelter Fund to RC-0005 (Vaccination)</event>
+  <event id="EV-00205" timestamp="2026-09-14 11:14:51" actor="U0013" role="Citizen" action="SOS_REPORTED">RC-0037: Moderate bird at 201002</event>
+  <event id="EV-00206" timestamp="2026-09-14 12:11:36" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0037 accepted</event>
+  <event id="EV-00207" timestamp="2026-09-14 12:35:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20260914-2646EA: ₹10,000.00 to General Shelter Fund</event>
+  <event id="EV-00208" timestamp="2026-09-16 03:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0031: ₹6,100.00 from General Shelter Fund to RC-0030 (Medicines)</event>
+  <event id="EV-00209" timestamp="2026-09-17 22:18:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260917-4D560A: ₹1,060.00 to Specific Medical Case</event>
+  <event id="EV-00210" timestamp="2026-09-19 06:40:51" actor="U0012" role="Adopter" action="ADOPTION_APPLIED">AP-0003 for A001: score 84</event>
+  <event id="EV-00211" timestamp="2026-09-19 21:48:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20260919-E1721C: ₹2,010.00 to General Shelter Fund</event>
+  <event id="EV-00212" timestamp="2026-09-19 22:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0032: ₹2,000.00 from General Shelter Fund to RC-0013 (Surgery)</event>
+  <event id="EV-00213" timestamp="2026-09-20 06:53:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260920-12EF61: ₹1,010.00 to General Shelter Fund</event>
+  <event id="EV-00214" timestamp="2026-09-21 03:09:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260921-8A16A0: ₹630.00 to Specific Medical Case</event>
+  <event id="EV-00215" timestamp="2026-09-21 06:42:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260921-47C1C0: ₹2,590.00 to General Shelter Fund</event>
+  <event id="EV-00216" timestamp="2026-09-22 22:33:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20260922-C2E79A: ₹10,000.00 to Specific Medical Case</event>
+  <event id="EV-00217" timestamp="2026-09-23 10:41:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260923-6550F7: ₹1,040.00 to Specific Medical Case</event>
+  <event id="EV-00218" timestamp="2026-09-23 21:59:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260923-9854CE: ₹15,530.00 to Specific Medical Case</event>
+  <event id="EV-00219" timestamp="2026-09-23 22:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0033: ₹8,200.00 from General Shelter Fund to RC-0014 (Medicines)</event>
+  <event id="EV-00220" timestamp="2026-09-25 06:43:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260925-3F1BE0: ₹5,670.00 to Emergency Feed Fund</event>
+  <event id="EV-00221" timestamp="2026-09-25 23:23:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260925-07E67C: ₹1,140.00 to Specific Medical Case</event>
+  <event id="EV-00222" timestamp="2026-09-26 06:25:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260926-9C1C35: ₹1,850.00 to General Shelter Fund</event>
+  <event id="EV-00223" timestamp="2026-09-27 13:40:51" actor="U0013" role="Adopter" action="ADOPTION_APPLIED">AP-0002 for A009: score 93</event>
+  <event id="EV-00224" timestamp="2026-09-27 23:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0034: ₹4,800.00 from General Shelter Fund to RC-0003 (Surgery)</event>
+  <event id="EV-00225" timestamp="2026-09-29 03:54:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20260929-45A888: ₹10,000.00 to Specific Medical Case</event>
+  <event id="EV-00226" timestamp="2026-09-29 19:05:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20260929-8B15BD: ₹1,650.00 to Emergency Feed Fund</event>
+  <event id="EV-00227" timestamp="2026-09-30 06:40:51" actor="U0010" role="Adopter" action="ADOPTION_APPLIED">AP-0006 for A010: score 75</event>
+  <event id="EV-00228" timestamp="2026-09-30 18:43:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20260930-9A6C0D: ₹400.00 to General Shelter Fund</event>
+  <event id="EV-00229" timestamp="2026-10-02 05:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0035: ₹800.00 from General Shelter Fund to RC-0020 (Medicines)</event>
+  <event id="EV-00230" timestamp="2026-10-02 08:39:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0040: Critical cat at 122001</event>
+  <event id="EV-00231" timestamp="2026-10-02 10:04:38" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0040 accepted</event>
+  <event id="EV-00232" timestamp="2026-10-02 13:14:51" actor="U0013" role="Citizen" action="SOS_REPORTED">RC-0017: Moderate dog at 201014</event>
+  <event id="EV-00233" timestamp="2026-10-02 17:46:24" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0017 accepted</event>
+  <event id="EV-00234" timestamp="2026-10-03 08:58:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261003-1BEAF6: ₹1,720.00 to Specific Medical Case</event>
+  <event id="EV-00235" timestamp="2026-10-04 03:40:51" actor="U0013" role="Adopter" action="ADOPTION_APPLIED">AP-0004 for A005: score 90</event>
+  <event id="EV-00236" timestamp="2026-10-04 10:35:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20261004-F2F9E5: ₹280.00 to General Shelter Fund</event>
+  <event id="EV-00237" timestamp="2026-10-04 12:40:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20261004-9C3A1E: ₹2,510.00 to Emergency Feed Fund</event>
+  <event id="EV-00238" timestamp="2026-10-05 22:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0036: ₹1,100.00 from General Shelter Fund to RC-0009 (Medicines)</event>
+  <event id="EV-00239" timestamp="2026-10-06 07:55:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261006-A107CC: ₹3,840.00 to General Shelter Fund</event>
+  <event id="EV-00240" timestamp="2026-10-06 18:21:51" actor="U0013" role="Citizen" action="SOS_REPORTED">RC-0014: Moderate bird at 201304</event>
+  <event id="EV-00241" timestamp="2026-10-07 00:22:50" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0014 accepted</event>
+  <event id="EV-00242" timestamp="2026-10-07 02:41:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261007-5D42B9: ₹11,730.00 to General Shelter Fund</event>
+  <event id="EV-00243" timestamp="2026-10-07 08:25:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20261007-50032B: ₹25,000.00 to General Shelter Fund</event>
+  <event id="EV-00244" timestamp="2026-10-07 09:18:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20261007-613D2D: ₹50,000.00 to General Shelter Fund</event>
+  <event id="EV-00245" timestamp="2026-10-07 16:40:51" actor="U0006" role="Donor" action="DONATION_FAILED">PC-DON-20261007-68AB80: ₹1,160.00 to General Shelter Fund</event>
+  <event id="EV-00246" timestamp="2026-10-08 01:34:51" actor="U0012" role="Citizen" action="SOS_REPORTED">RC-0042: Critical dog at 122001</event>
+  <event id="EV-00247" timestamp="2026-10-08 02:35:45" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0042 accepted</event>
+  <event id="EV-00248" timestamp="2026-10-08 12:30:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0023: Critical cow at 201010</event>
+  <event id="EV-00249" timestamp="2026-10-08 14:45:11" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0023 accepted</event>
+  <event id="EV-00250" timestamp="2026-10-08 18:29:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261008-3BFDA8: ₹1,170.00 to Specific Medical Case</event>
+  <event id="EV-00251" timestamp="2026-10-08 22:06:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261008-6E3F68: ₹730.00 to General Shelter Fund</event>
+  <event id="EV-00252" timestamp="2026-10-09 03:27:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261009-D9B59F: ₹2,150.00 to Emergency Feed Fund</event>
+  <event id="EV-00253" timestamp="2026-10-09 21:18:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0035: Moderate bird at 201304</event>
+  <event id="EV-00254" timestamp="2026-10-09 23:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0037: ₹23,400.00 from General Shelter Fund to RC-0023 (Vaccination)</event>
+  <event id="EV-00255" timestamp="2026-10-10 00:58:15" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0035 accepted</event>
+  <event id="EV-00256" timestamp="2026-10-10 04:17:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20261010-486822: ₹310.00 to Specific Medical Case</event>
+  <event id="EV-00257" timestamp="2026-10-11 04:58:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20261011-4EE433: ₹1,530.00 to General Shelter Fund</event>
+  <event id="EV-00258" timestamp="2026-10-11 08:08:51" actor="U0009" role="Citizen" action="SOS_REPORTED">RC-0011: Low dog at 201014</event>
+  <event id="EV-00259" timestamp="2026-10-11 10:04:44" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0011 accepted</event>
+  <event id="EV-00260" timestamp="2026-10-11 22:17:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261011-3AD1FA: ₹2,030.00 to Emergency Feed Fund</event>
+  <event id="EV-00261" timestamp="2026-10-12 05:23:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261012-257D5E: ₹1,560.00 to Specific Medical Case</event>
+  <event id="EV-00262" timestamp="2026-10-12 08:34:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261012-2ACE1A: ₹2,050.00 to Specific Medical Case</event>
+  <event id="EV-00263" timestamp="2026-10-13 04:36:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20261013-3C9ABE: ₹15,000.00 to Emergency Feed Fund</event>
+  <event id="EV-00264" timestamp="2026-10-13 17:32:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20261013-49646B: ₹1,600.00 to General Shelter Fund</event>
+  <event id="EV-00265" timestamp="2026-10-14 00:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0038: ₹1,300.00 from General Shelter Fund to RC-0009 (Vaccination)</event>
+  <event id="EV-00266" timestamp="2026-10-14 01:23:51" actor="U0013" role="Citizen" action="SOS_REPORTED">RC-0006: Low cat at 201010</event>
+  <event id="EV-00267" timestamp="2026-10-14 07:44:00" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0006 accepted</event>
+  <event id="EV-00268" timestamp="2026-10-15 01:19:51" actor="U0007" role="Donor" action="DONATION_SUCCESS">PC-DON-20261015-FD98FE: ₹15,000.00 to Emergency Feed Fund</event>
+  <event id="EV-00269" timestamp="2026-10-15 03:29:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20261015-505217: ₹2,760.00 to Specific Medical Case</event>
+  <event id="EV-00270" timestamp="2026-10-15 03:36:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261015-592A35: ₹690.00 to Emergency Feed Fund</event>
+  <event id="EV-00271" timestamp="2026-10-15 04:10:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20261015-B5A472: ₹4,220.00 to General Shelter Fund</event>
+  <event id="EV-00272" timestamp="2026-10-16 00:45:51" actor="U0009" role="Citizen" action="SOS_REPORTED">RC-0005: Moderate cat at 110017</event>
+  <event id="EV-00273" timestamp="2026-10-16 01:00:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261016-B3A7D0: ₹1,640.00 to Specific Medical Case</event>
+  <event id="EV-00274" timestamp="2026-10-16 03:18:52" actor="U0003" role="Rescuer" action="CASE_ACCEPTED">RC-0005 accepted</event>
+  <event id="EV-00275" timestamp="2026-10-16 21:12:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261016-A2B03C: ₹1,520.00 to Specific Medical Case</event>
+  <event id="EV-00276" timestamp="2026-10-16 23:56:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20261016-F3ABEA: ₹690.00 to General Shelter Fund</event>
+  <event id="EV-00277" timestamp="2026-10-18 05:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0039: ₹5,900.00 from Emergency Feed Fund to RC-0008 (Food)</event>
+  <event id="EV-00278" timestamp="2026-10-18 11:54:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0020: Low cow at 201002</event>
+  <event id="EV-00279" timestamp="2026-10-18 17:04:43" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0020 accepted</event>
+  <event id="EV-00280" timestamp="2026-10-18 23:04:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261018-EF3A6F: ₹350.00 to General Shelter Fund</event>
+  <event id="EV-00281" timestamp="2026-10-19 05:10:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261019-C35B1C: ₹5,290.00 to Specific Medical Case</event>
+  <event id="EV-00282" timestamp="2026-10-20 02:05:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261020-E238FE: ₹720.00 to Emergency Feed Fund</event>
+  <event id="EV-00283" timestamp="2026-10-20 02:38:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20261020-606E0E: ₹2,380.00 to General Shelter Fund</event>
+  <event id="EV-00284" timestamp="2026-10-20 16:06:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0045: Low cat at 201014</event>
+  <event id="EV-00285" timestamp="2026-10-20 18:32:23" actor="U0002" role="Rescuer" action="CASE_ACCEPTED">RC-0045 accepted</event>
+  <event id="EV-00286" timestamp="2026-10-20 22:45:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20261020-93D228: ₹420.00 to Specific Medical Case</event>
+  <event id="EV-00287" timestamp="2026-10-21 19:47:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0002: Low cat at 110092</event>
+  <event id="EV-00288" timestamp="2026-10-21 23:59:51" actor="U0010" role="Citizen" action="SOS_REPORTED">RC-0039: Critical dog at 201014</event>
+  <event id="EV-00289" timestamp="2026-10-22 01:15:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20261022-6DF72C: ₹390.00 to Specific Medical Case</event>
+  <event id="EV-00290" timestamp="2026-10-22 04:54:51" actor="U0006" role="Donor" action="DONATION_SUCCESS">PC-DON-20261022-611772: ₹420.00 to Emergency Feed Fund</event>
+  <event id="EV-00291" timestamp="2026-10-22 05:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0040: ₹2,300.00 from General Shelter Fund to RC-0028 (Surgery)</event>
+  <event id="EV-00292" timestamp="2026-10-22 07:22:51" actor="U0005" role="Donor" action="DONATION_FAILED">PC-DON-20261022-113634: ₹540.00 to Specific Medical Case</event>
+  <event id="EV-00293" timestamp="2026-10-23 09:37:51" actor="U0008" role="Donor" action="DONATION_SUCCESS">PC-DON-20261023-ABA4FC: ₹1,460.00 to General Shelter Fund</event>
+  <event id="EV-00294" timestamp="2026-10-23 14:04:51" actor="U0013" role="Citizen" action="SOS_REPORTED">RC-0025: Moderate cat at 201304</event>
+  <event id="EV-00295" timestamp="2026-10-23 20:53:18" actor="U0004" role="Rescuer" action="CASE_ACCEPTED">RC-0025 accepted</event>
+  <event id="EV-00296" timestamp="2026-10-23 22:56:51" actor="U0005" role="Donor" action="DONATION_SUCCESS">PC-DON-20261023-4B9DFD: ₹1,090.00 to General Shelter Fund</event>
+  <event id="EV-00297" timestamp="2026-10-24 07:40:51" actor="U0012" role="Adopter" action="ADOPTION_APPLIED">AP-0001 for A003: score 100</event>
+  <event id="EV-00298" timestamp="2026-10-24 10:40:51" actor="U0010" role="Adopter" action="ADOPTION_APPLIED">AP-0007 for A007: score 72</event>
+  <event id="EV-00299" timestamp="2026-10-25 22:40:51" actor="U0001" role="Admin" action="FUNDS_ALLOCATED">AL-0041: ₹6,100.00 from General Shelter Fund to RC-0037 (Shelter maintenance)</event>
+  <event id="EV-00300" timestamp="2026-10-26 14:51:51" actor="U0011" role="Citizen" action="SOS_REPORTED">RC-0026: Low dog at 110092</event>
+  <event id="EV-00301" timestamp="2026-10-27 13:40:51" actor="system" role="System" action="DEMO_DATA_LOADED">Sample data created</event>
+  <event id="EV-00302" timestamp="2026-10-27 19:14:25" actor="U0001" role="Admin" action="LOGIN">Meera Kapoor signed in</event>
+  <event id="EV-00303" timestamp="2026-10-27 19:15:03" actor="U0001" role="Admin" action="LOGOUT">Meera Kapoor signed out</event>
+  <event id="EV-00304" timestamp="2026-10-27 19:15:27" actor="U0002" role="Rescuer" action="LOGIN">Arjun Singh signed in</event>
+  <event id="EV-00305" timestamp="2026-10-27 19:15:54" actor="U0002" role="Rescuer" action="LOGOUT">Arjun Singh signed out</event>
+  <event id="EV-00306" timestamp="2026-10-27 19:16:07" actor="U0005" role="Donor" action="LOGIN">Ananya Sharma signed in</event>
+  <event id="EV-00307" timestamp="2026-10-27 19:16:14" actor="U0005" role="Donor" action="LOGOUT">Ananya Sharma signed out</event>
+  <event id="EV-00308" timestamp="2026-10-27 19:16:35" actor="karan@example.com" role="Unknown" action="LOGIN_FAILED">Wrong e-mail/mobile or password</event>
+  <event id="EV-00309" timestamp="2026-10-27 19:16:41" actor="U0009" role="Citizen" action="LOGIN">Karan Malhotra signed in</event>
+  <event id="EV-00310" timestamp="2026-10-27 19:17:13" actor="U0009" role="Citizen" action="LOGOUT">Karan Malhotra signed out</event>
+  <event id="EV-00311" timestamp="2026-10-27 19:17:25" actor="U0012" role="Adopter" action="LOGIN">Riya Bansal signed in</event>
+</auditLog>

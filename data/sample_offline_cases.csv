@@ -1,0 +1,7 @@
+animal_type,injury_level,description,pincode,address
+Dog,Critical,Dog hit by a bike near the bus stand and can't stand up,201001,Old bus stand
+Cat,Low,Kitten with a mild eye infection sitting near the dairy,201002,Raj Nagar dairy
+Cow,Moderate,Cow with a wound on its leg tied near the highway,201301,NH-24 service lane
+Bird,Moderate,Pigeon caught in kite string on a balcony,110092,Preet Vihar block C
+Dog,Severe,This row is skipped because Severe is not a valid injury level,201001,Test row
+Dog,Low,Puppy with a skin rash,012345,Invalid pincode row

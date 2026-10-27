@@ -1,0 +1,40 @@
+# "Dusk Rose" theme. These values copy config.COLORS_DARK (TOML can't import Python),
+# so if you change a colour there, change it here too.
+# Streamlit's own widgets use this; ui/styles.py adds the PawConnect look on top
+# and switches to the light (cream & coral) palette when it is chosen in the sidebar.
+[theme]
+base = "dark"
+primaryColor = "#F28FAD"
+backgroundColor = "#151216"
+secondaryBackgroundColor = "#1E1A20"
+textColor = "#F0E9EC"
+linkColor = "#8FB8F2"
+borderColor = "#362F39"
+showWidgetBorder = true
+baseRadius = "12px"
+buttonRadius = "12px"
+font = "Nunito Sans:https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&display=swap"
+headingFont = "Fraunces:https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap"
+dataframeBorderColor = "#362F39"
+dataframeHeaderBackgroundColor = "#272229"
+dataframeHeaderTextColor = "#A89BA2"
+redColor = "#F5877F"
+orangeColor = "#F2C98F"
+yellowColor = "#F2C98F"
+greenColor = "#8FD9B6"
+blueColor = "#8FB8F2"
+violetColor = "#C4A7F2"
+chartCategoricalColors = ["#8FB8F2", "#F28FAD", "#F2C98F", "#8FD9B6", "#C4A7F2"]
+
+[theme.sidebar]
+backgroundColor = "#1A161C"
+secondaryBackgroundColor = "#272229"
+
+[server]
+maxUploadSize = 8
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

@@ -1,0 +1,13 @@
+animal_id,name,species,breed,age_years,gender,vaccinated,sterilized,temperament,description,photo_path,status,case_id,added_at
+A001,Bruno,Dog,Indie,2,Male,no,no,"Playful, loves fetch","Rescued from park entrance and fully recovered. Playful, loves fetch.",,Available,RC-0014,2026-07-21 22:03:19
+A002,Sheru,Dog,Indie,4,Male,yes,yes,Calm and loyal,Rescued from park entrance and fully recovered. Calm and loyal.,,Available,RC-0002,2026-05-17 22:46:05
+A003,Moti,Dog,Indie mix,1,Female,yes,no,Gentle with children,Rescued from highway service lane and fully recovered. Gentle with children.,,Adopted,RC-0011,2026-06-19 06:03:06
+A004,Kalu,Dog,Indie,3,Male,yes,yes,"Guard-dog instincts, friendly once he knows you","Rescued from near the temple and fully recovered. Guard-dog instincts, friendly once he knows you.",,Available,RC-0029,2026-09-13 17:51:12
+A005,Chutki,Cat,Indian domestic,1,Female,no,yes,Curious and cuddly,Rescued and fully recovered. Curious and cuddly.,,Available,RC-0025,2026-09-04 11:31:52
+A006,Simba,Cat,Indian domestic,2,Male,yes,yes,"Independent, likes window seats","Rescued from park entrance and fully recovered. Independent, likes window seats.",,Available,RC-0013,2026-07-03 07:36:24
+A007,Luna,Cat,Indian domestic,0.5,Female,yes,no,"Tiny explorer, litter trained","Rescued from park entrance and fully recovered. Tiny explorer, litter trained.",,Available,RC-0013,2026-07-03 07:36:24
+A008,Golu,Dog,Indie,0.5,Male,yes,yes,"Bouncy puppy, needs training","Rescued from behind the market and fully recovered. Bouncy puppy, needs training.",,Available,RC-0012,2026-06-18 16:35:15
+A009,Mishti,Cat,Indian domestic,3,Female,no,no,Quiet lap cat,Rescued from park entrance and fully recovered. Quiet lap cat.,,Adopted,RC-0013,2026-07-03 07:36:24
+A010,Tiger,Dog,Indie,5,Male,yes,yes,Three-legged and fearless,Rescued from highway service lane and fully recovered. Three-legged and fearless.,,Available,RC-0008,2026-05-31 14:21:39
+A011,Bholu,Dog,Indie,6,Male,no,no,"Senior gentleman, loves naps","Rescued from behind the market and fully recovered. Senior gentleman, loves naps.",,Available,RC-0012,2026-06-18 16:35:15
+A012,Coco,Dog,Indie mix,2,Female,yes,no,"Energetic, great running buddy","Rescued from outside the school gate and fully recovered. Energetic, great running buddy.",,Available,RC-0009,2026-06-13 08:46:55

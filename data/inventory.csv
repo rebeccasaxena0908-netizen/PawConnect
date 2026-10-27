@@ -1,0 +1,11 @@
+item_id,item,category,quantity,unit,reorder_level,updated_at
+INV-001,Kennel beds,Shelter,30,beds,5,2026-10-19 13:40:51
+INV-002,Rabies vaccine,Medicine,42,doses,20,2026-10-21 13:40:51
+INV-003,Antibiotic injections,Medicine,12,vials,15,2026-10-22 13:40:51
+INV-004,Surgical gauze,Medical supply,80,packs,30,2026-10-20 13:40:51
+INV-005,Dog food (dry),Food,140,kg,50,2026-10-26 13:40:51
+INV-006,Cat food (wet),Food,18,kg,20,2026-10-18 13:40:51
+INV-007,Anti-tick spray,Medicine,9,bottles,10,2026-10-26 13:40:51
+INV-008,Saline drip 500 ml,Medical supply,55,bags,25,2026-10-19 13:40:51
+INV-009,Leashes and collars,Equipment,34,pieces,10,2026-10-25 13:40:51
+INV-010,Rescue stretchers,Equipment,4,pieces,2,2026-10-17 13:40:51
